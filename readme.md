@@ -1,4 +1,4 @@
-# slime effect in iOS，in obj-c
+# Slime effect in iOS，in obj-c
 ---
 ![image](http://7ls0ue.com1.z0.glb.clouddn.com/2015/10/27/ios_slime/SBSlime2.gif)
 
